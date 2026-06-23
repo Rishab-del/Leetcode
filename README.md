@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rishab-del/Leetcode/tree/master/0001-two-sum) |
 | [0064-minimum-path-sum](https://github.com/Rishab-del/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishab-del/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rishab-del/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rishab-del/Leetcode/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Rishab-del/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Rishab-del/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## String
