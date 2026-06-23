@@ -91,4 +91,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rishab-del/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Tree
+|  |
+| ------- |
+| [0437-path-sum-iii](https://github.com/Rishab-del/Leetcode/tree/master/0437-path-sum-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0437-path-sum-iii](https://github.com/Rishab-del/Leetcode/tree/master/0437-path-sum-iii) |
+## Binary Tree
+|  |
+| ------- |
+| [0437-path-sum-iii](https://github.com/Rishab-del/Leetcode/tree/master/0437-path-sum-iii) |
 <!---LeetCode Topics End-->
