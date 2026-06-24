@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rishab-del/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/Rishab-del/Leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rishab-del/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0437-path-sum-iii](https://github.com/Rishab-del/Leetcode/tree/master/0437-path-sum-iii) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rishab-del/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rishab-del/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/Rishab-del/Leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rishab-del/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0437-path-sum-iii](https://github.com/Rishab-del/Leetcode/tree/master/0437-path-sum-iii) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rishab-del/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rishab-del/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/Rishab-del/Leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rishab-del/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0437-path-sum-iii](https://github.com/Rishab-del/Leetcode/tree/master/0437-path-sum-iii) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rishab-del/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rishab-del/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -148,4 +152,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rishab-del/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
