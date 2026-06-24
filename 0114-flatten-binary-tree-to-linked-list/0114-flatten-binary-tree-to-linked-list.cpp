@@ -24,8 +24,6 @@ public:
         for(int i = 0; i < ans.size() - 1; i++) {
             ans[i]->left = NULL;
             ans[i]->right = ans[i + 1];
-        }
-        ans.back()->left = NULL;
-        ans.back()->right = NULL;   
+        } 
     }
 };
