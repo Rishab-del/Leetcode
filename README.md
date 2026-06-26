@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rishab-del/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0437-path-sum-iii](https://github.com/Rishab-del/Leetcode/tree/master/0437-path-sum-iii) |
+| [0572-subtree-of-another-tree](https://github.com/Rishab-del/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rishab-del/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rishab-del/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0437-path-sum-iii](https://github.com/Rishab-del/Leetcode/tree/master/0437-path-sum-iii) |
+| [0572-subtree-of-another-tree](https://github.com/Rishab-del/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rishab-del/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rishab-del/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0437-path-sum-iii](https://github.com/Rishab-del/Leetcode/tree/master/0437-path-sum-iii) |
+| [0572-subtree-of-another-tree](https://github.com/Rishab-del/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rishab-del/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 ## Backtracking
 |  |
@@ -156,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rishab-del/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Rishab-del/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Rishab-del/Leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
