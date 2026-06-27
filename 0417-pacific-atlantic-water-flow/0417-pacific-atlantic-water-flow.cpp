@@ -22,14 +22,14 @@ int m, n;
         vector<vector<bool>> pacific(m, vector<bool>(n, false));
         vector<vector<bool>> atlantic(m, vector<bool>(n, false));
         // Pacific: top row & left column
-        for (int i = 0; i < m; i++)
+        for (int i = 0; i < m; i++)        //top to down
             dfs(heights, i, 0, pacific);
-        for (int j = 0; j < n; j++)
+        for (int j = 0; j < n; j++)           //left to right
             dfs(heights, 0, j, pacific);
         // Atlantic: bottom row & right column
-        for (int i = 0; i < m; i++)
+        for (int i = 0; i < m; i++)       // top to down 
             dfs(heights, i, n - 1, atlantic);
-        for (int j = 0; j < n; j++)
+        for (int j = 0; j < n; j++)        //left to roght 
             dfs(heights, m - 1, j, atlantic);
         vector<vector<int>> ans;
         for (int i = 0; i < m; i++) {
