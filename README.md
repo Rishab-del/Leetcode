@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rishab-del/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rishab-del/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0658-find-k-closest-elements](https://github.com/Rishab-del/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0875-koko-eating-bananas](https://github.com/Rishab-del/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishab-del/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Rishab-del/Leetcode/tree/master/1046-last-stone-weight) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rishab-del/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rishab-del/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Rishab-del/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0875-koko-eating-bananas](https://github.com/Rishab-del/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Sliding Window
 |  |
 | ------- |
