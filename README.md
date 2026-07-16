@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishab-del/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rishab-del/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Rishab-del/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0208-implement-trie-prefix-tree](https://github.com/Rishab-del/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Rishab-del/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rishab-del/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Rishab-del/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Rishab-del/Leetcode/tree/master/0049-group-anagrams) |
+| [0208-implement-trie-prefix-tree](https://github.com/Rishab-del/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Rishab-del/Leetcode/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/Rishab-del/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rishab-del/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -235,5 +237,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Rishab-del/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rishab-del/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Rishab-del/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
