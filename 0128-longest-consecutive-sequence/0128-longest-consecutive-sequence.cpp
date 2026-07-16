@@ -6,15 +6,15 @@ public:
         unordered_set<int> st(nums.begin(), nums.end());
 
         for(int num : st){
-            if(st.find(num - 1) == st.end()) {
+            if(st.find(num - 1) == st.end()) { //run when number not in set
                 int curr = num;
                 int cnt = 1;
-            while(st.find(curr+1)!=st.end()){
-                curr++;
-                cnt++;
+                while(st.find(curr+1)!=st.end()){
+                    curr++;
+                    cnt++;
+                }
+                ans=max(ans,cnt);
             }
-            ans=max(ans,cnt);
-        }
         }
         return ans;
     }
