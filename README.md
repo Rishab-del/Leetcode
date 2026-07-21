@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Rishab-del/Leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rishab-del/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rishab-del/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2742-painting-the-walls](https://github.com/Rishab-del/Leetcode/tree/master/2742-painting-the-walls) |
 ## Greedy
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishab-del/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rishab-del/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Rishab-del/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [2742-painting-the-walls](https://github.com/Rishab-del/Leetcode/tree/master/2742-painting-the-walls) |
 ## Binary Search Tree
 |  |
 | ------- |
