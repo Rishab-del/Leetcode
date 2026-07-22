@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rishab-del/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rishab-del/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -250,4 +252,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Rishab-del/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
