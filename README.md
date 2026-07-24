@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Rishab-del/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0390-elimination-game](https://github.com/Rishab-del/Leetcode/tree/master/0390-elimination-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishab-del/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0390-elimination-game](https://github.com/Rishab-del/Leetcode/tree/master/0390-elimination-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
