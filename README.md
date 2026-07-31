@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Rishab-del/Leetcode/tree/master/0402-remove-k-digits) |
 | [1189-maximum-number-of-balloons](https://github.com/Rishab-del/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rishab-del/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2390-removing-stars-from-a-string](https://github.com/Rishab-del/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Rishab-del/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0402-remove-k-digits](https://github.com/Rishab-del/Leetcode/tree/master/0402-remove-k-digits) |
+| [2390-removing-stars-from-a-string](https://github.com/Rishab-del/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## String Matching
 |  |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Rishab-del/Leetcode/tree/master/0402-remove-k-digits) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Rishab-del/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
