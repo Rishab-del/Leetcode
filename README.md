@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rishab-del/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Rishab-del/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishab-del/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rishab-del/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Rishab-del/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rishab-del/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rishab-del/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Rishab-del/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rishab-del/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/Rishab-del/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Rishab-del/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## String
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Rishab-del/Leetcode/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/Rishab-del/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rishab-del/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Rishab-del/Leetcode/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/Rishab-del/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rishab-del/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Rishab-del/Leetcode/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/Rishab-del/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rishab-del/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -254,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Rishab-del/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rishab-del/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
