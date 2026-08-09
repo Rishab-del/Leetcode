@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishab-del/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/Rishab-del/Leetcode/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/Rishab-del/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rishab-del/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Rishab-del/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/Rishab-del/Leetcode/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/Rishab-del/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rishab-del/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishab-del/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/Rishab-del/Leetcode/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/Rishab-del/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rishab-del/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Rishab-del/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rishab-del/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Bit Manipulation
 |  |
