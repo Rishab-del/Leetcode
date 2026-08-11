@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rishab-del/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Rishab-del/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2742-painting-the-walls](https://github.com/Rishab-del/Leetcode/tree/master/2742-painting-the-walls) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rishab-del/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rishab-del/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Rishab-del/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rishab-del/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rishab-del/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/Rishab-del/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Rishab-del/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rishab-del/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
