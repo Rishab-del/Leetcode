@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Rishab-del/Leetcode/tree/master/0486-predict-the-winner) |
 | [0658-find-k-closest-elements](https://github.com/Rishab-del/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Rishab-del/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Rishab-del/Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishab-del/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Rishab-del/Leetcode/tree/master/1046-last-stone-weight) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Rishab-del/Leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/Rishab-del/Leetcode/tree/master/0390-elimination-game) |
 | [0400-nth-digit](https://github.com/Rishab-del/Leetcode/tree/master/0400-nth-digit) |
 | [0486-predict-the-winner](https://github.com/Rishab-del/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Rishab-del/Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishab-del/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rishab-del/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rishab-del/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rishab-del/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Rishab-del/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Rishab-del/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Rishab-del/Leetcode/tree/master/0877-stone-game) |
 | [2742-painting-the-walls](https://github.com/Rishab-del/Leetcode/tree/master/2742-painting-the-walls) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rishab-del/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search Tree
@@ -318,12 +321,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rishab-del/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Rishab-del/Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rishab-del/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Rishab-del/Leetcode/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rishab-del/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Rishab-del/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
