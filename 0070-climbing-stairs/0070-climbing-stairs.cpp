@@ -7,8 +7,8 @@ public:
 
         for (int i = 3; i <= n; i++) {
            int curr=k+j;
-           k=j;
-           j=curr;
+           j=k;
+           k=curr;
         }
 
         return k;
