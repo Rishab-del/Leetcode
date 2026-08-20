@@ -1,6 +1,7 @@
 class Solution {
 public:
     int climbStairs(int n) {
+        if(n<=2) return n;
         int j = 1;
         int k  = 2;
 
@@ -10,6 +11,6 @@ public:
            j=curr;
         }
 
-        return n == 1 ? 1 : j + (n == 2 ? 1 : 0);
+        return k;
     }
 };
