@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rishab-del/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rishab-del/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rishab-del/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Rishab-del/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Rishab-del/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rishab-del/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rishab-del/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Rishab-del/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Geometry
 |  |
 | ------- |
