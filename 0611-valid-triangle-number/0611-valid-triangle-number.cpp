@@ -12,16 +12,12 @@ public:
 
             while (i < j) {
                 if (nums[i] + nums[j] > nums[k]) {
-                    // All elements from i to j-1
-                    // can form a triangle with j and k
+                    // All elements from i to j-1 can form a triangle with j and k
                     ans += j - i;
                     j--;
-                } else {
-                    i++;
-                }
+                } else i++; 
             }
         }
-
         return ans;
     }
 };
