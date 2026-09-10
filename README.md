@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rishab-del/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rishab-del/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rishab-del/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rishab-del/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rishab-del/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rishab-del/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
 | ------- |
