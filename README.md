@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/Rishab-del/Leetcode/tree/master/0390-elimination-game) |
 | [0400-nth-digit](https://github.com/Rishab-del/Leetcode/tree/master/0400-nth-digit) |
 | [0486-predict-the-winner](https://github.com/Rishab-del/Leetcode/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/Rishab-del/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Rishab-del/Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishab-del/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rishab-del/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Rishab-del/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishab-del/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
