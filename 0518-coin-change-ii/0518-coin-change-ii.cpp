@@ -2,22 +2,43 @@ class Solution {
 public:
     int change(int amount, vector<int>& coins) {
 
-        vector<int> dp(amount + 1, 0);
+        int n = coins.size();
 
-        dp[0] = 1;
+        if (amount == 0)
+            return 1;
 
-        for (int coin : coins) {
-            for (int target = coin; target <= amount; target++) {
+        if (n == 0)
+            return 0;
 
-                if (dp[target] > INT_MAX - dp[target - coin]) {
-                    dp[target] = INT_MAX;
+        vector<vector<long long>> dp(
+            n, vector<long long>(amount + 1, 0)
+        );
+
+        // Base case
+        for (int target = 0; target <= amount; target++) {
+            if (target % coins[0] == 0)
+                dp[0][target] = 1;
+        }
+
+        for (int ind = 1; ind < n; ind++) {
+            for (int target = 0; target <= amount; target++) {
+
+                long long notTake = dp[ind - 1][target];
+
+                long long take = 0;
+
+                if (coins[ind] <= target) {
+                    take = dp[ind][target - coins[ind]];
                 }
-                else {
-                    dp[target] += dp[target - coin];
-                }
+
+                // Prevent long long overflow
+                if (take > LLONG_MAX - notTake)
+                    dp[ind][target] = LLONG_MAX;
+                else
+                    dp[ind][target] = take + notTake;
             }
         }
 
-        return dp[amount];
+        return (int)dp[n - 1][amount];
     }
 };
