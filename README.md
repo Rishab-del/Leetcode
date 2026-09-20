@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Rishab-del/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rishab-del/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Rishab-del/Leetcode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Rishab-del/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Rishab-del/Leetcode/tree/master/0518-coin-change-ii) |
 | [0611-valid-triangle-number](https://github.com/Rishab-del/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Rishab-del/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Rishab-del/Leetcode/tree/master/0039-combination-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Rishab-del/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Rishab-del/Leetcode/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/Rishab-del/Leetcode/tree/master/0494-target-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Rishab-del/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Rishab-del/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Rishab-del/Leetcode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Rishab-del/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Rishab-del/Leetcode/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Rishab-del/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rishab-del/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -414,11 +417,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Rishab-del/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Rishab-del/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Rishab-del/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Rishab-del/Leetcode/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Rishab-del/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Rishab-del/Leetcode/tree/master/0494-target-sum) |
 ## Brainteaser
 |  |
 | ------- |
