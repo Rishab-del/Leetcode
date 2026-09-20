@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rishab-del/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Rishab-del/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rishab-del/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/Rishab-del/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Rishab-del/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Rishab-del/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
 | ------- |
