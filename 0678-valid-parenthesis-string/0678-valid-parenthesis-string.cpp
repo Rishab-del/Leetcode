@@ -15,7 +15,6 @@ public:
                 low--;
                 high++;
             }
-            // Even maximum possible '(' is negative
             if (high < 0)
                 return false;
             // Minimum cannot be negative
