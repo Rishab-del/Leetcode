@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Rishab-del/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rishab-del/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Rishab-del/Leetcode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Rishab-del/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Rishab-del/Leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Rishab-del/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Rishab-del/Leetcode/tree/master/0856-score-of-parentheses) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Rishab-del/Leetcode/tree/master/0039-combination-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Rishab-del/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Rishab-del/Leetcode/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Rishab-del/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Rishab-del/Leetcode/tree/master/0494-target-sum) |
 ## Dynamic Programming
 |  |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Rishab-del/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Rishab-del/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/Rishab-del/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Rishab-del/Leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rishab-del/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rishab-del/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
