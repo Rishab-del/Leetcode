@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Rishab-del/Leetcode/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/Rishab-del/Leetcode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Rishab-del/Leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Rishab-del/Leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Rishab-del/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/Rishab-del/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishab-del/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Rishab-del/Leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Rishab-del/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/Rishab-del/Leetcode/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rishab-del/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Rishab-del/Leetcode/tree/master/0054-spiral-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/Rishab-del/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rishab-del/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
