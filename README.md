@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rishab-del/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/Rishab-del/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Rishab-del/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rishab-del/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rishab-del/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Merge Sort
 |  |
