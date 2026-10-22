@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rishab-del/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Rishab-del/Leetcode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/Rishab-del/Leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/Rishab-del/Leetcode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Rishab-del/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/Rishab-del/Leetcode/tree/master/0390-elimination-game) |
 | [0400-nth-digit](https://github.com/Rishab-del/Leetcode/tree/master/0400-nth-digit) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Rishab-del/Leetcode/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/Rishab-del/Leetcode/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Rishab-del/Leetcode/tree/master/0486-predict-the-winner) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
