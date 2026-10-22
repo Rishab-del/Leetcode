@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Rishab-del/Leetcode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/Rishab-del/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Rishab-del/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Rishab-del/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Rishab-del/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/Rishab-del/Leetcode/tree/master/0390-elimination-game) |
 | [0400-nth-digit](https://github.com/Rishab-del/Leetcode/tree/master/0400-nth-digit) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Rishab-del/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/Rishab-del/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Rishab-del/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rishab-del/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Rishab-del/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Rishab-del/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Rishab-del/Leetcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Rishab-del/Leetcode/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Rishab-del/Leetcode/tree/master/0486-predict-the-winner) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Rishab-del/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
